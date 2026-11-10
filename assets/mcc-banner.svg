@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="MCC My Care Center">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102E35"/><stop offset="1" stop-color="#0C1726"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#83E7BC"/><stop offset="1" stop-color="#43C6BC"/></linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="20" fill="url(#bg)"/>
+  <circle cx="1100" cy="40" r="170" fill="#80E2BC" opacity=".035"/>
+  <circle cx="1085" cy="55" r="110" fill="none" stroke="#80E2BC" opacity=".12"/>
+  <rect x="65" y="64" width="148" height="148" rx="38" fill="url(#accent)"/>
+  <path d="M90 139h27l13-27 20 54 15-27h25" fill="none" stroke="#11363A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="250" y="94" fill="#83E7BC" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">MY CARE CENTER</text>
+  <text x="246" y="166" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="2">MCC</text>
+  <text x="250" y="204" fill="#B3C9CE" font-family="Arial,sans-serif" font-size="19">From health data to everyday action.</text>
+  <line x1="727" y1="75" x2="727" y2="205" stroke="#4C7A7D" opacity=".45"/>
+  <g font-family="Arial,sans-serif" font-size="16" fill="#D6E6E7">
+    <circle cx="775" cy="94" r="4" fill="#83E7BC"/><text x="795" y="100">HEALTH DATA</text>
+    <circle cx="775" cy="143" r="4" fill="#83E7BC"/><text x="795" y="149">PERSONAL ROUTINE</text>
+    <circle cx="775" cy="192" r="4" fill="#83E7BC"/><text x="795" y="198">AI CONVERSATION</text>
+  </g>
+</svg>
